@@ -19,5 +19,5 @@ public class TestController {
     public static void main(String[] args) throws Exception {
         SpringApplication.run(TestController.class, args);
     }
-    
+
 }
